@@ -1,5 +1,9 @@
 {
   "students": [
+	{
+		"name": "kyle-duncan",
+		"github": "kduncan12"
+	},
     {
       "name": "student-name",
       "github": "github-username"
