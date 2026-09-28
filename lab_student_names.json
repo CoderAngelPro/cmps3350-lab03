@@ -6,7 +6,11 @@
     },
     {
       "name": "student-name",
-      "github": "github-username"
+      "github": "github-username",
+    },
+    {
+      "name": "Oscar Reyes",
+      "github": "oscrys"
     }
   ]
 }
