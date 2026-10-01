@@ -1,12 +1,16 @@
 {
   "students": [
-	{
-		"name": "kyle-duncan",
-		"github": "kduncan12"
-	},
     {
-          "name": "abbygaile",
-          "github": "abagby108"
+      "name": "aramirezlope",
+      "github": "adelina570"
+    },
+	  {
+		  "name": "kyle-duncan",
+		  "github": "kduncan12"
+	  },
+    {
+      "name": "abbygaile",
+      "github": "abagby108"
     },
     { 
       "name": "Jonathan-Torres",
