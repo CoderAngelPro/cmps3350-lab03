@@ -1,12 +1,28 @@
 {
   "students": [
+    { 
+      "name": "Jonathan-Torres",
+      "github": "JTorres580"
+    },
+    {
+      "name": "Erik-Gastelum",
+      "github": "ErikGastelum"
+    },
+    {
+      "name": "Chazz Carrizales",
+      "github": "czcarrizales"
+    },
     {
       "name": "Jacob Micu",
       "github": "jaobjoshm"
     },
     {
-       "name": "student-name",
-       "github": "github-username"
+      "name": "student-name",
+      "github": "github-username",
+    },
+    {
+      "name": "Oscar Reyes",
+      "github": "oscrys"
     }
   ]
 }
